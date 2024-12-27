@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# Plex
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,v4.plex.tv
 
 # 58
 DOMAIN-SUFFIX,58.com
