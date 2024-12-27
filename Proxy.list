@@ -16,6 +16,29 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
+#Plex 
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata-atic.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
+DOMAIN-SUFFIX,assets.plex.tv
+DOMAIN-SUFFIX,scrobbles.plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,clients.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,mp.plex.tv
+DOMAIN-SUFFIX,ump.plex.tv
+DOMAIN-SUFFIX,mpm.plex.tv
+DOMAIN-SUFFIX,vod.provider.plex.tv
+DOMAIN-SUFFIX,epg.provider.plex.tv
+DOMAIN-SUFFIX,music.provider.plex.tv
+DOMAIN-SUFFIX,discover.provider.plex.tv
+DOMAIN-SUFFIX,together.plex.tv
+DOMAIN-SUFFIX,features.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,support.plex.tv
+DOMAIN-SUFFIX,status.plex.tv
+
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
