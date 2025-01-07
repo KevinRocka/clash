@@ -39,6 +39,11 @@ DOMAIN-SUFFIX,pubsub.plex.tv
 DOMAIN-SUFFIX,support.plex.tv
 DOMAIN-SUFFIX,status.plex.tv
 
+DOMAIN-SUFFIX,prd.roonlabs.net
+DOMAIN-SUFFIX,discovery.roonlabs.net
+DOMAIN-SUFFIX,api.roonlabs.net
+
+
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
