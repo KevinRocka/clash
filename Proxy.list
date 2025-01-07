@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# Plex 
+# Plex 自建
 DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,metadata-static.plex.tv
 DOMAIN-SUFFIX,metadata-atic.plex.tv
@@ -39,10 +39,13 @@ DOMAIN-SUFFIX,pubsub.plex.tv
 DOMAIN-SUFFIX,support.plex.tv
 DOMAIN-SUFFIX,status.plex.tv
 
+# roon 自建
 DOMAIN-SUFFIX,prd.roonlabs.net
 DOMAIN-SUFFIX,discovery.roonlabs.net
 DOMAIN-SUFFIX,api.roonlabs.net
-
+DOMAIN-SUFFIX,valence.roonlabs.net
+DOMAIN-SUFFIX,go.roonlabs.com
+DOMAIN-SUFFIX,bits.roonlabs.net
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
